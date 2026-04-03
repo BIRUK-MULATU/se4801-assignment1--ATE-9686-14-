@@ -78,12 +78,5 @@ BUILD SUCCESS
 
 
 
-##  Database
-
-* **Type:** H2 (In-Memory)
-* No installation required
-* Automatically configured by Spring Boot
-
-
 
 
