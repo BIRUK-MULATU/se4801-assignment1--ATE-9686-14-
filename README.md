@@ -16,7 +16,7 @@
 
 **ShopWave Starter** is a RESTful API built using **Java 21** and **Spring Boot 3.x** for managing a simple product catalog.
 
-This project was developed as part of **Assignment 1** for the *SE 4801 — Enterprise Application Development* course.
+This project was developed as part of **Assignment 1** for the Enterprise Application Development* course.
 
 It demonstrates a full Spring Boot application architecture, including:
 
